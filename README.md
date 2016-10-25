@@ -6,4 +6,5 @@ Reversed engineered the SQL commands to preform an inventory transfer in Sage ac
 Use the following methods
 
 sageTransferUpdate() - Transfer Inventory between two locations
+
 SageInvUpdate() - Update Inventory
